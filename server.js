@@ -6,8 +6,8 @@ var mongoose = require('mongoose');
 var PORT = '8080';
 var db = null;
 var db_user = {
-	name: "dummyUser",
-	pass: "Password123"
+	name: "",
+	pass: ""
 };
 
 // Setting up configurations.
