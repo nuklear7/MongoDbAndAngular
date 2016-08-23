@@ -19,5 +19,7 @@ Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
 
 Nodeclipse is free open-source project that grows with your contributions.
 
-Express - application framework
-Nodemon - auto-publish tool
+Nodemon - auto-publish tool for developing.
+Express - back-end framework.
+AngularJs - front-end framework.
+Bootstrap - CSS library.
